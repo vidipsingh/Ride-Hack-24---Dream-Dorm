@@ -14,7 +14,7 @@ Our goal was to make the frontend and funtionality of Dream Dorm to the maximum,
 
 Landing page  >  Sign in  > Make a search (property type + area)  >  House Listing Page  >  User applies filters/sorting  >  Reach Individual Property Page  >   Make a callback request 
 
- Pages Implemented 
+**Pages Implemented**
 
 * Home page + Global Search function  
 * About us 
@@ -26,7 +26,7 @@ Landing page  >  Sign in  > Make a search (property type + area)  >  House Listi
 * Callback Page
 * Sign up/Sign in 
 
- Learnings and Roadblocks
+**Learnings and Roadblocks**
 
 **API** 
 The foremost challenege was to find API to fetch data, that would create the property-area link for the project. Json Server was used.  We extracted property data for popular cities and fetched them from mock server.  
