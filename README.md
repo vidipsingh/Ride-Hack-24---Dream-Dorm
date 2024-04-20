@@ -29,15 +29,19 @@ Landing page  >  Sign in  > Make a search (property type + area)  >  House Listi
 **Learnings and Roadblocks**
 
 **API** 
+
 The foremost challenege was to find API to fetch data, that would create the property-area link for the project. Json Server was used.  We extracted property data for popular cities and fetched them from mock server.  
 
 **Google Maps** 
+
 We used google maps API to embed a google map iframe into our project. The house lisiting page is made to change map location dynamically on hovering across different houses. 
 
 **CSS Animations** 
+
 We learnt about CSS animations and have used them generously thoughout the project. We also implemented interactive popups that get triggered with javascript on events. 
 
 **Local Storage** 
+
 Local storage was primarily used for sign up/sign in feature and to transition from one page to the next. Data from one page is stored in local storage on an event. This data is then used to populate the next page in the userflow path. 
 
 
