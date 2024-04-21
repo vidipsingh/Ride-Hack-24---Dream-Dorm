@@ -1,6 +1,6 @@
 /* Navbar CSS */
 :root {
-    --light-green: #61c3ae;
+    --light-green: ;
     --white: white;
 }
 
@@ -144,7 +144,8 @@ footer>.d-flex {
 }
 
 .footer_brand_logo {
-    width: 13%;
+    width: 30%;
+    height:60%
 }
 
 .footer_brand_logo img {
