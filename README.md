@@ -1,20 +1,20 @@
-# Ride-Hack-24---Dream-Dorm
+# 🏠 Dream Dorm
 
-**About Dream Dorm**
+## ⭐️ About Dream Dorm
 <br>
 
 Dream Dorm provides apartments, co-living and PG properties on rent across major cities in the country. These properties exhibit professional standards in hygine, maintainence and come furnished with myriad amneties. 
 
-**Project Goal**
+## ✨ Project Goal
 
 Our goal was to make the frontend and funtionality of Dream Dorm to the maximum, using only HTML, JS and CSS ( - no frameworks ). The implemntion of the user flow was cruicial in taking the project to completion.   
 
 
-**User Flow Path** 
+## ⭐️ User Flow Path
 
 Landing page  >  Sign in  > Make a search (property type + area)  >  House Listing Page  >  User applies filters/sorting  >  Reach Individual Property Page  >   Make a callback request 
 
-**Pages Implemented**
+## ✨ Pages Implemented
 
 * Home page + Global Search function  
 * About us 
@@ -26,7 +26,7 @@ Landing page  >  Sign in  > Make a search (property type + area)  >  House Listi
 * Callback Page
 * Sign up/Sign in 
 
-**Learnings and Roadblocks**
+## ⭐️ Learnings and Roadblocks
 
 **API** 
 
