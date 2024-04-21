@@ -46,7 +46,7 @@ img {
 
 .invertedComma {
     --tw-text-opacity: 1;
-    color: rgb(96 195 173/var(--tw-text-opacity));
+    color: rgb(69, 69, 145);
     font-weight: bolder;
     font-size: 50px;
 }
@@ -129,7 +129,7 @@ img {
     align-items: flex-end;
     padding: 17px;
     background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 13%, #174d69 56%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 13%, rgb(29, 96, 130) 70%);
     color: white;
     font-weight: bold;
     border-radius: 12px;
