@@ -96,8 +96,18 @@ body::-webkit-scrollbar-thumb {
     transition: all 1s ease;
 }
 
+
+#green_filter1_text{
+    visibility: hidden;
+}
+#green_filter2_text{
+    visibility: hidden;
+}
+#green_filter3_text{
+    visibility: hidden;
+}
 .sliding_img_2 {
-    background: url("https://www.stanzaliving.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fstanza-living%2Fimage%2Fupload%2Ff_auto%2Cq_auto%3Alow%2Cw_600%2Fv1653296622%2FWebsite%2520v5%2FBanner%2Fcity.jpg&w=1920&q=75");
+    /* background: url("/Demo1/Dream Dorm/images/India gate png.png"); */
     color: var(--white);
     background-position: center;
     background-repeat: no-repeat;
@@ -217,18 +227,18 @@ body::-webkit-scrollbar-thumb {
 }
 
 .student_housing {
-    background: url("https://www.stanzaliving.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fstanza-living%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1653291829%2FWebsite%2520v5%2FProductCards%2FStudent_1_copy.png&w=640&q=75");
+    background: url("/Demo1/Dream Dorm/images/dc58e9dcbb85d04e0009f7cb3d2d3d72.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 .co_living_housing {
-    background: url("https://www.stanzaliving.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fstanza-living%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1653291829%2FWebsite%2520v5%2FProductCards%2FStudent_1_copy.png&w=640&q=75");
+    background: url("/Demo1/Dream Dorm/images/MV5BODYzMzc1ZDEtNzdmMC00ZmEyLWJhN2ItOGQwM2VhYjViNzhmXkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }.managed_apt_housing {
-    background: url("https://www.stanzaliving.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fstanza-living%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1653291829%2FWebsite%2520v5%2FProductCards%2FStudent_1_copy.png&w=640&q=75");
+    background: url("/Demo1/Dream Dorm/images/8dfd23ffc90947c2b3da7dd2fb62e112.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -539,7 +549,8 @@ footer>.d-flex {
 }
 
 .footer_brand_logo {
-    width: 13%;
+    width: 30%;
+    height:60%;
 }
 
 .copyright p {
@@ -647,12 +658,14 @@ footer>.d-flex {
     }
 
     #sliding_img_2 {
-        background-image: url('images/shalender-kumar-XjKaPInYVCM-unsplash.jpg');
+        background-image: url('images/Untitled\ design\ \(2\).png');
         background-size: contain;
         /* padding-left: 100px; */
         background-position: right;
+
     }
 
+ 
     .property_type {
         width: 94%;
         position: relative;
