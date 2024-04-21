@@ -41,17 +41,15 @@ function displayWhy(){
            <h1>so we moved there too</h1>
            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus est eu libero condimentum, non tempus sapien posuere. Nam vestibulum leo non ipsum gravida, nec fermentum justo interdum. Sed id quam at felis pretium fringilla. Maecenas vel eleifend purus. Sed dapibus sapien eu nulla placerat</p>
         </div>
-        <div id = "indiaMap">
-        <img src="Screenshot (143).png" alt="" id = "indiaImg">
-       </div>
+        
        </div>
       
        
    </div>`
-   document.getElementById("why").style.color = "#60c3ad";
+   document.getElementById("why").style.color = "#3f72af";
    document.getElementById("what").style.color =  "#7d7d7d";
    document.getElementById("how").style.color =  "#7d7d7d";
-   document.getElementById("why").style.borderBottom = "2px solid #60c3ad "
+   document.getElementById("why").style.borderBottom = "2px solid #3f72af "
    document.getElementById("what").style.borderBottom = "none"
    document.getElementById("how").style.borderBottom = "none"
 }
@@ -114,10 +112,10 @@ function displayWhat(){
    </div>
 </div>
 </div>`
-document.getElementById("what").style.color = "#60c3ad"
+document.getElementById("what").style.color = "#3f72af"
 document.getElementById("how").style.color =  "#7d7d7d";
 document.getElementById("why").style.color =  "#7d7d7d";
-document.getElementById("what").style.borderBottom = "2px solid #60c3ad "
+document.getElementById("what").style.borderBottom = "2px solid #3f72af"
    document.getElementById("why").style.borderBottom = "none"
    document.getElementById("how").style.borderBottom = "none"
 }
@@ -181,10 +179,10 @@ function displayHow(){
         </div>
     </div>
 </div>`
-document.getElementById("how").style.color = "#60c3ad"
+document.getElementById("how").style.color = "#3f72af"
 document.getElementById("why").style.color =  "#7d7d7d";
 document.getElementById("what").style.color =  "#7d7d7d";
-document.getElementById("how").style.borderBottom = "2px solid #60c3ad "
+document.getElementById("how").style.borderBottom = "2px solid #3f72af "
    document.getElementById("why").style.borderBottom = "none"
    document.getElementById("what").style.borderBottom = "none"
 }
