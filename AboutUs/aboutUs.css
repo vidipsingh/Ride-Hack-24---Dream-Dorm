@@ -1,7 +1,15 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
 #whyBox{
     display: flex;
     flex-direction: column;
     gap: 107px;
+}
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #whyBox div{
     display: flex;
@@ -33,7 +41,7 @@ img{
     max-width: 100%;
 }
 #globalWhy1 > div > :nth-child(2){
-    color: #60c3ad;
+    color:#3F72AF ;
 }
 
 #aboutUsHeading{
@@ -45,7 +53,7 @@ img{
     padding-bottom: 2%;
 }
 #aboutUsHeading > span{
-    color: #60c3ad;
+    color: #3F72AF;
 }
 #navBar{
     display: flex;
@@ -58,7 +66,7 @@ img{
    box-sizing: border-box;
    border-radius: 30px;
    padding: 0 21px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.568) 0px 7px 29px 0px;
  
  }
  #navBar div{
@@ -92,7 +100,7 @@ img{
     display: block !important;
  }
  #whySecond :nth-child(2){
-    color: #60c3ad;
+    color: #3F72AF;
  }
  #whyBox h1{
   font-size: 36px;
@@ -117,7 +125,7 @@ img{
     font-size: 1.3rem;
  }
  #whyBox > :nth-child(3) div :nth-child(2){
-    color: #60c3ad;
+    color: #3F72AF;
     
  }
 
@@ -125,7 +133,7 @@ img{
     text-align: center;
  }
  #h1sec{
-   color: #60c3ad;
+   color: #3F72AF;
  }
  #whyBox > :nth-child(4){
     display: block !important;    
@@ -166,7 +174,7 @@ img{
 
 .your_friends_text a{
     font-size: 1.6rem;
-    color: #60c3ad;
+    color: #3F72AF;
 }
 
 .inspire_work{
@@ -178,7 +186,7 @@ img{
 }
 
 .inspire_work h1 span{
-    color: #60c3ad;
+    color: #3F72AF;
 }
 /* #whatsApp{
     display: flex;
@@ -188,7 +196,7 @@ img{
     display: flex;
     /* padding: 0 8%; */
     border-radius: 22px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: whitesmoke;
     align-items: center;
     
 }
@@ -207,7 +215,7 @@ img{
     width: 100%;
 }
 #howBox  > :nth-child(3){
-    background-color: #60c3ad;
+    background-color: #3F72AF;
 
 }
 #howBox  > :nth-child(3) h1{
@@ -219,7 +227,7 @@ img{
     color: white;
 }
 #howBox  > :nth-child(6){
-    background-color: #60c3ad;
+    background-color: #3F72AF;
 }
 #howBox  > :nth-child(6) h1{
     font-weight: bolder;
@@ -233,7 +241,7 @@ img{
    color: white;
 }
 #howBox  > :nth-child(9){
-    background-color: #60c3ad;
+    background-color: #3F72AF;
 }
 #howBox  > :nth-child(9) h1{
     font-weight: bolder;
@@ -252,13 +260,13 @@ img{
     font-style: inherit;
 }
 #howBox span{
-    color: #60c3ad;
+    color: #3F72AF;
 }
 #whatBox > div{
     display: flex;
 }
 #whatLowerPart{
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px; 
     border-radius: 45px;
     
 }
@@ -303,14 +311,14 @@ img{
 }
 #homePage span{
     font-weight: 100;
-    color: #60c3ad;
+    color: #3F72AF;
 }
 #bodyMain{
-    background: rgb(233,255,252);
-    background: linear-gradient(180deg, rgba(233,255,252,1) 2%, rgba(255,255,255,1) 7%);
+    background: rgb(208, 243, 255);
+    background: linear-gradient(195deg,#b0c5fa 0%, rgba(255, 255, 255, 1) 78%);
 }
-#aboutUsHeading{
-    /* margin-top: 10%; */
+/*#aboutUsHeading{
+    margin-top: 10%; 
 }
 /* #homePage{
     margin-top: 15%;
