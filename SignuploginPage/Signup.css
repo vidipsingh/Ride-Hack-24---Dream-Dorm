@@ -16,9 +16,9 @@
 #bodyBox {
     padding: 35px;
     margin: auto;
-    border: 1px solid #60c3ad;
+    border: 1px solid  #3F72AF;
     border-radius: 15px;
-    background-color: #e1f3ef;
+    background-color: #bceaff;
 
 }
 
@@ -92,7 +92,7 @@
 }
 
 .password input:hover {
-    border: 1px solid #60c3ad;
+    border: 1px solid  #3F72AF;
 }
 
 .password {
@@ -118,7 +118,7 @@
 }
 
 #nameContainer input:hover {
-    border: 1px solid #60c3ad;
+    border: 1px solid  #3F72AF;
 }
 
 #selectType {
@@ -131,7 +131,7 @@
 }
 
 .form-check a {
-    color: #60c3ad;
+    color:  #3F72AF;
     text-decoration: none;
 }
 
@@ -152,7 +152,7 @@
     color: white;
     border: none;
     border-radius: 10px;
-    background-color: #60c3ad;
+    background-color:  #3F72AF;
     font-weight: 500;
 
 }
@@ -163,7 +163,7 @@
     color: white;
     border: none;
     border-radius: 10px;
-    background-color: #60c3ad;
+    background-color:  #3F72AF;
     font-weight: 500;
 
 }
@@ -174,7 +174,7 @@
 }
 
 #loginPage {
-    color: #60c3ad;
+    color:  #3F72AF;
     font-weight: bolder;
     cursor: pointer;
 }
@@ -192,7 +192,7 @@
 }
 
 #SignUpPage {
-    color: #60c3ad;
+    color: #3F72AF;
     font-weight: bolder;
     cursor: pointer;
 }
